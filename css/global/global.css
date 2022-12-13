@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  padding-bottom: 600px;
+  color: #121212;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  border-radius: 4px;
+}
