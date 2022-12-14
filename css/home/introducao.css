@@ -6,13 +6,7 @@
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
   gap: 0px 40px;
-  box-sizing: border-box;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .introducao-conteudo {
@@ -33,8 +27,6 @@
   object-fit: cover;
 }
 
-
-
 @media (max-width: 800px) {
   .introducao-bg {
     background-color: var(--cor-11);
@@ -54,5 +46,6 @@
   }
   .introducao img {
     height: 300px;
+    width: 100%;
   }
 }
