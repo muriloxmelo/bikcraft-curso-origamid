@@ -1,0 +1,17 @@
+.termos-conteudo {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.termos-conteudo h2 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.termos-conteudo p + h2 {
+  margin-top: 40px;
+}
+
+.termos-conteudo p {
+  margin-bottom: 24px;
+  max-width: 75ch;
+}
