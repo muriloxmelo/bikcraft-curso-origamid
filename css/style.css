@@ -18,6 +18,9 @@
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
+/* bicicleta */
+@import "./bicicleta/bicicleta.css";
+
 /* termos */
 @import "./termos/termos.css";
 
@@ -25,3 +28,4 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
