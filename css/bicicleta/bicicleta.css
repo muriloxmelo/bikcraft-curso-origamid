@@ -99,20 +99,26 @@
   color: var(--cor-6);
 }
 
+
 @media (max-width: 800px) {
   .bicicleta {
     grid-template-columns: 1fr;
+    padding-bottom: 40px;
   }
   .bicicleta-imagens {
     grid-row: 2;
   }
-}
-
-@media (max-width: 800px) {
   .bicicleta-informacoes {
     grid-template-columns: 1fr;
   }
   .bicicleta-comprar {
     grid-template-columns: 1fr;
   }
+  .escolha-bg {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+
+@media (max-width: 800px) {
 }
