@@ -67,10 +67,13 @@
   padding-bottom: 60px;
 }
 
+.titulo {
+  background: url(../../icon/dec/bottom-right.svg) no-repeat top right 20px;
+}
+
 .titulo p {
   margin-bottom: 4px;
 }
-
 
 @media (max-width: 800px) {
   .titulo-bg {
