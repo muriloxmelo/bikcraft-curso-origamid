@@ -1,7 +1,7 @@
 .vantagens-bg {
   background-color: var(--cor-12);
   --padding: 120px;
-  padding-top: var(--padding);
+  padding-top: 60px;
   padding-bottom: var(--padding);
 }
 
